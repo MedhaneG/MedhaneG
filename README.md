@@ -67,6 +67,6 @@ CI/CD, Terraform, Kubernetes, Security Compliance, Performance Monitoring, Analy
 ### 🤝 Let's Connect & Collaborate
 
 📧 **Email:** [Medatopg@gmail.com](mailto:Medatopg@gmail.com)
-🧑‍💻 **GitHub:** [github.com/MedhanyeG](https://github.com/MedhaneG)
+🧑‍💻 **GitHub:** [github.com/MedhanyG](https://github.com/MedhaneG)
 
 </div>
